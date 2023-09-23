@@ -1,1 +1,2 @@
-# Image_Denoising_using_SVD
+# Image Denoising using Singular Value Decomposition (SVD)
+This repository contains code for implementing image denoising using Singular Value Decomposition (SVD). Image denoising is a crucial task in image processing, aiming to remove or reduce noise from images while preserving important details. SVD is a powerful mathematical technique that can be used for dimensionality reduction and noise reduction in images.
